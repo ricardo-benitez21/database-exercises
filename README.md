@@ -1,1 +1,1 @@
-This repository will be used for any database excersises 
+This repository will be used for any database exercises
